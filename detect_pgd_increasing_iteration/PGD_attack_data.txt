@@ -1,0 +1,12 @@
+iteration: 1, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0733, confidence: 0.6560
+iteration: 3, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0749, confidence: 0.7383
+iteration: 5, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0765, confidence: 0.8029
+iteration: 7, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0781, confidence: 0.8519
+iteration: 9, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0797, confidence: 0.8878
+iteration: 11, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0813, confidence: 0.9138
+iteration: 13, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0829, confidence: 0.9327
+iteration: 15, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0845, confidence: 0.9464
+iteration: 17, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0861, confidence: 0.9567
+iteration: 19, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0876, confidence: 0.9643
+iteration: 21, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0892, confidence: 0.9700
+iteration: 23, total images number: 1024, success attack num: 1024, attack success: 1.0000, l2 norm dist: 0.0908, confidence: 0.9745
